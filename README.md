@@ -25,7 +25,7 @@ A simple OSINT tool that validates phone numbers and retrieves publicly availabl
 ## 📦 Installation
 
 ```bash
-git clone <your-repo-url>
-cd <project-folder>
+git clone https://github.com/MuzzammilN/PhoneNumber-Verifier.git
+cd PhoneNumber-Verifier
 npm install
 npm run dev
